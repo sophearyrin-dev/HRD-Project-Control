@@ -1,0 +1,13 @@
+export const GET_TASK = "GET_TASK";
+export const GET_TASKVIEW = "GET_TASKVIEW";
+export const GET_MYTASK = "GET_MYTASK";
+export const GET_ALLTASK = "GET_ALLTASK";
+export const GET_ALLPROGRESS = "GET_ALLPROGRESS";
+export const GET_SUBTASK = "GET_SUBTASK";
+export const GET_SUBTASK_BY_MAIN = "GET_SUBTASK_BY_MAIN";
+export const DELETE_SUBTASK = "DELETE_SUBTASK";
+export const GET_USER_PRO_ID = "GET_USER_PRO_ID";
+export const ADD_SUBTASK = "ADD_SUBTASK";
+export const UPDATE_TASK_USER = "UPDATE_TASK_USER";
+export const UPDATE_TASK = "UPDATE_TASK";
+export const GET_ISSUE_BY_MAIN = "GET_ISSUE_BY_MAIN";

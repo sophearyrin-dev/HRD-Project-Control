@@ -1,0 +1,2 @@
+export const POST_USERLOGIN="POST_USERLOGIN";
+export const USER_LOGOUT="USER_LOGOUT";
